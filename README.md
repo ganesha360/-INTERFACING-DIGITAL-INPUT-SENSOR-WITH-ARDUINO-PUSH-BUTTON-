@@ -81,5 +81,5 @@ FIGURE -03
 
 ## OUTPUT OF SIMULATION :
 
-[My image](username.github.com/repository/img/image.jpg)
-
+Result:
+Thus the digtal interfacing of circuit using Aurdino circuit is completed sucessfully by thinkercad software.
