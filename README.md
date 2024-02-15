@@ -111,5 +111,5 @@ void loop()
 
 
 ## RESULT:
-Thus the digtal interfacing of circuit using Aurdino circuit is completed sucessfully by thinkercad software.
+Thus the digtal interfacing of circuit using Aurdino circuit is completed sucessfully by tinkercad software.
 
