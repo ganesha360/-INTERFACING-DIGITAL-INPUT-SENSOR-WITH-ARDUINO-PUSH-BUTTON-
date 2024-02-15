@@ -2,7 +2,7 @@
 ## DATE : 15-02-2024
 ## NAME : GANESH R																		             
 ## ROLLNUMBER : 212222240029
-## DEPARTMENT :
+## DEPARTMENT : AI&ML
 
 
 ## AIM:
