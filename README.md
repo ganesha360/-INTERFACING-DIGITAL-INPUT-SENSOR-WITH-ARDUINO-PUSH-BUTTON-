@@ -107,6 +107,8 @@ void loop()
 
 ## OUTPUT OF SIMULATION :
 ![ITR EX1](https://github.com/ganesha360/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/120884552/143e1cb9-2265-4029-9b28-286a8deb6bb5)
+![ITR EX1(2)](https://github.com/ganesha360/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/120884552/8a6f5da9-edfa-4462-af0c-4b1900c2467e)
+
 ## RESULT:
 Thus the digtal interfacing of circuit using Aurdino circuit is completed sucessfully by thinkercad software.
 
