@@ -62,7 +62,7 @@ FIGURE -03
 
 
 ## PROGRAM 
-```
+```PYTHON
  int led= 4;
 int pushbutton=3;
 void setup()
