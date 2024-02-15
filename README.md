@@ -62,6 +62,7 @@ FIGURE -03
 
 
 ## PROGRAM 
+```
  int led= 4;
 int pushbutton=3;
 void setup()
@@ -87,6 +88,7 @@ void loop()
       digitalWrite(led, LOW);
   }
 }
+```
  
 
 
@@ -104,6 +106,7 @@ void loop()
 
 
 ## OUTPUT OF SIMULATION :
-
-[My image](username.github.com/repository/img/image.jpg)
+![ITR EX1](https://github.com/ganesha360/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/120884552/143e1cb9-2265-4029-9b28-286a8deb6bb5)
+## RESULT:
+Thus the digtal interfacing of circuit using Aurdino circuit is completed sucessfully by thinkercad software.
 
