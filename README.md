@@ -53,7 +53,7 @@ FIGURE-02
 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
-
+![image](https://github.com/ganesha360/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/120884552/c0ebbcd2-cd2c-4b3c-b40c-5ef042c29a01)
 
 
 FIGURE -03
@@ -107,7 +107,7 @@ void loop()
 
 ## OUTPUT OF SIMULATION :
 ![ITR EX1](https://github.com/ganesha360/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/120884552/143e1cb9-2265-4029-9b28-286a8deb6bb5)
-![image](https://github.com/ganesha360/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/120884552/c0ebbcd2-cd2c-4b3c-b40c-5ef042c29a01)
+
 
 
 ## RESULT:
